@@ -6,3 +6,7 @@
 .red-quote{
   color: red;
 }
+
+#cats {
+  display: flex;
+}
