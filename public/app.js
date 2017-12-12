@@ -56,7 +56,7 @@ const createTextLi = function(content) {
 
 const createImageLi = function(imageSource){
   const img = document.createElement('img');
-  img.width = 500;
+  img.classList.add('catimage');
   img.src = imageSource;
   return img;
 }

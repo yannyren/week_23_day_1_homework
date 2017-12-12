@@ -10,3 +10,7 @@
 #cats {
   display: flex;
 }
+
+.catimage {
+  width: 500px;
+}
